@@ -1,4 +1,8 @@
 # psdjfunda_nt
 ```
-python -m venv dj-env
+python -m venv django-env
+```
+
+```
+. django-env/bin/activate
 ```
