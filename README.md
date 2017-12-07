@@ -16,3 +16,7 @@ Scripts\bin\activate.bat
 ```
 python manage.py showmigrations
 ```
+
+```
+python manage.py sqlmigrate gameplay 0001
+```
